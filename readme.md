@@ -2,6 +2,8 @@
 
 This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
 
+To see the live version: (https://loopstudiostailwindcss-6zn0g5rdz.vercel.app/)
+
 ## Usage
 
 Install dependencies
@@ -29,3 +31,5 @@ npm run build
 ```
 
 You only need to deploy your html files and css/style.css
+
+
